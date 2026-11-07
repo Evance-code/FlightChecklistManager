@@ -6,7 +6,7 @@ FlightChecklistManager is a console application written in Kotlin. A user can cr
 
 My purpose in writing this software was to learn Kotlin syntax by using it in a realistic program. The program uses mutable and immutable variables, expressions, conditionals, loops, functions, and classes. It also uses a data class, collections (a mutable list and a map), and the `when` keyword in several ways.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/3yYBdPBvpHY)
 
 # Development Environment
 
